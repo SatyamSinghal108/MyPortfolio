@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+.backs{
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: 100% 80vh;
+    background-image: url("../assets/imagecar1.jpeg");
+}
+
+form input{
+    margin-top: 30px;
+    max-width: 88vh;
+    height: 8vh;
+}
+
+.n{
+    box-shadow: 4px 1px 3px grey;
+}
+
+.backs .ts{
+    margin-top: 10%;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+}
+
+.backs .ts #one{
+    color: dodgerblue;
+    font-weight: bolder;
+}
+
+.backs .ts #two, #three{
+    color: green;
+    font-weight: bolder;
+}
+
+.backs .ts #four{
+    color: orange;
+    font-weight: bolder;
+}
+
+.backs .ts #five{
+    color: yellow;
+    font-weight: bolder;
+}
+
+.backs .ts #six{
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+.backs .ts #seven{
+    color: red;
+    font-weight: bolder;
+}
+
+.end .social {
+    padding-top:6px ;
+}
+
+.end .social a{
+    padding:6px ;
+}
+
+.end .social a img{
+    border:1px solid darkgray;
+    border-radius: 12px; 
+}
+
+.end .copyright{
+    padding-bottom: 4px;
+}
