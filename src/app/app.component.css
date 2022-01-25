@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
 .backs{
-    height: 80vh;
+    height: 70vh;
     background-repeat: no-repeat;
     background-size: 100% 80vh;
-    background-image: url("../assets/imagecar1.jpeg");
+    background-image: url("../assets/imagecar2.jpeg");
 }
 
 form input{
-    margin-top: 30px;
+    margin-top: 20px;
     max-width: 88vh;
     height: 8vh;
 }
@@ -30,12 +30,12 @@ form input{
 }
 
 .backs .ts #two, #three{
-    color: green;
+    color: black;
     font-weight: bolder;
 }
 
-.backs .ts #four{
-    color: orange;
+.backs .ts #six{
+    color: lime;
     font-weight: bolder;
 }
 
@@ -44,13 +44,9 @@ form input{
     font-weight: bolder;
 }
 
-.backs .ts #six{
-    color: blueviolet;
-    font-weight: bolder;
-}
 
 .backs .ts #seven{
-    color: red;
+    color: rgb(216, 12, 12);
     font-weight: bolder;
 }
 

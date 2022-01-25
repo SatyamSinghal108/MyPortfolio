@@ -8,13 +8,18 @@
 .a{
     display: flex;
     justify-content: space-evenly;
-    margin-top:10%;
+    margin-top:7%;
     margin-bottom:5%;
 }
 
-img{
+.b img{
     width: 60vh;
     height: 69vh;
     border:3px solid gray;
     
+}
+
+h2{
+    margin-left: 7.5%;
+    margin-bottom: 5%;
 }

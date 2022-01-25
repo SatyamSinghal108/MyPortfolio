@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AppComponent } from './app.component';
 import { AboutComponent } from './CV/about/about.component';
 import { ContactComponent } from './CV/contact/contact.component';
 import { ExperienceComponent } from './CV/experience/experience.component';
